@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/barbearia-shop/static/css/main.f855e6bc.css",
-    "main.js": "/barbearia-shop/static/js/main.1b4a1eb2.js",
+    "main.css": "/barbearia-shop/static/css/main.8ca2d4c9.css",
+    "main.js": "/barbearia-shop/static/js/main.e65211d9.js",
     "static/js/787.4ff73889.chunk.js": "/barbearia-shop/static/js/787.4ff73889.chunk.js",
+    "static/media/banner-barbearia.jpg": "/barbearia-shop/static/media/banner-barbearia.6e5abe93cc1c1bbbc2d0.jpg",
     "index.html": "/barbearia-shop/index.html",
-    "main.f855e6bc.css.map": "/barbearia-shop/static/css/main.f855e6bc.css.map",
-    "main.1b4a1eb2.js.map": "/barbearia-shop/static/js/main.1b4a1eb2.js.map",
+    "main.8ca2d4c9.css.map": "/barbearia-shop/static/css/main.8ca2d4c9.css.map",
+    "main.e65211d9.js.map": "/barbearia-shop/static/js/main.e65211d9.js.map",
     "787.4ff73889.chunk.js.map": "/barbearia-shop/static/js/787.4ff73889.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1b4a1eb2.js"
+    "static/css/main.8ca2d4c9.css",
+    "static/js/main.e65211d9.js"
   ]
 }
